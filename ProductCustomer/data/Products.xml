@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+        <Id>3</Id>
+        <Code>T300</Code>
+        <Description>This is a test product 3</Description>
+        <UnitPrice>300</UnitPrice>
+        <QuantityOnHand>30</QuantityOnHand>
+    </Product>
+    <Product>
+        <Id>3</Id>
+        <Code>T300</Code>
+        <Description>This is a test product 3</Description>
+        <UnitPrice>300</UnitPrice>
+        <QuantityOnHand>30</QuantityOnHand>
+    </Product>
+</Products>

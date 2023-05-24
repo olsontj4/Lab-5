@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\bin\Debug\net6.0\ProductCustomer.exe
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\bin\Debug\net6.0\ProductCustomer.deps.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\bin\Debug\net6.0\ProductCustomer.runtimeconfig.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\bin\Debug\net6.0\ProductCustomer.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\bin\Debug\net6.0\ProductCustomer.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\refint\ProductCustomer.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ProductCustomer.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\ProductCustomer\obj\Debug\net6.0\ref\ProductCustomer.dll
