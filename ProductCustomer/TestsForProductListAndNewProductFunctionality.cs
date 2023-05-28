@@ -160,5 +160,10 @@ namespace ProductCustomer
             Console.WriteLine("Index 'T200'.  Expecting product with code of T200 \n" + list["T200"]);
             Console.WriteLine();
         }
+        static void TestCustomerList()
+        {
+            CustomerList list = new CustomerList();
+            CustomerList.Fill;
+        }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\ProductCustomer\\ProductCustomer.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\Lab-5\\ProductCustomer\\ProductCustomer.csproj",
       "projectName": "ProductCustomer",
-      "projectPath": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\ProductCustomer\\ProductCustomer.csproj",
+      "projectPath": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\Lab-5\\ProductCustomer\\ProductCustomer.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\ProductCustomer\\obj\\",
+      "outputPath": "C:\\Users\\thoma\\Desktop\\Homework (Yes, really.)\\Computer Science 2\\Lab 5\\Lab-5\\ProductCustomer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",

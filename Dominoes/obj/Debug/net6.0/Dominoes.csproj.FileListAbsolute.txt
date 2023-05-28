@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\bin\Debug\net6.0\Dominoes.exe
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\bin\Debug\net6.0\Dominoes.deps.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\bin\Debug\net6.0\Dominoes.runtimeconfig.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\bin\Debug\net6.0\Dominoes.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\bin\Debug\net6.0\Dominoes.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\refint\Dominoes.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\Dominoes.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 5\Lab-5\Dominoes\obj\Debug\net6.0\ref\Dominoes.dll
